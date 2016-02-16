@@ -1,10 +1,10 @@
 {
-  "name": "style-to-css",
+  "name": "style-css",
   "main": "index.js",
   "version": "1.0.0",
-  "description": "Convert DOM style objects into a CSS string",
+  "description": "Convert selectors with DOM style objects into valid CSS strings",
   "license": "MIT",
-  "repository": "bendrucker/style-to-css",
+  "repository": "bendrucker/style-css",
   "author": {
     "name": "Ben Drucker",
     "email": "bvdrucker@gmail.com",

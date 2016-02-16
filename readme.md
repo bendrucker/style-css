@@ -1,19 +1,19 @@
-# style-to-css [![Build Status](https://travis-ci.org/bendrucker/style-to-css.svg?branch=master)](https://travis-ci.org/bendrucker/style-to-css)
+# style-css [![Build Status](https://travis-ci.org/bendrucker/style-css.svg?branch=master)](https://travis-ci.org/bendrucker/style-css)
 
-> Convert DOM style objects into a CSS string
+> Convert selectors with DOM style objects into valid CSS strings
 
 
 ## Install
 
 ```
-$ npm install --save style-to-css
+$ npm install --save style-css
 ```
 
 
 ## Usage
 
 ```js
-var toCss = require('style-to-css')
+var toCss = require('style-css')
 
 toCss({body: {fontSize: '14px'}})
 //=> body{font-size:14px;}
