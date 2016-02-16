@@ -1,7 +1,7 @@
 {
   "name": "style-css",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert selectors with DOM style objects into valid CSS strings",
   "license": "MIT",
   "repository": "bendrucker/style-css",
