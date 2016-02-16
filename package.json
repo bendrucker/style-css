@@ -29,6 +29,7 @@
   ],
   "dependencies": {
     "camel-2-dash": "~0.1.0",
-    "to-css": "~1.2.1"
+    "to-css": "~1.2.1",
+    "xtend": "~4.0.1"
   }
 }
