@@ -1,4 +1,4 @@
-# style-css [![Build Status](https://travis-ci.org/bendrucker/style-css.svg?branch=master)](https://travis-ci.org/bendrucker/style-css)
+# style-css [![Build Status](https://travis-ci.org/bendrucker/style-css.svg?branch=master)](https://travis-ci.org/bendrucker/style-css) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/style-css.svg)](https://greenkeeper.io/)
 
 > Convert selectors with DOM style objects into valid CSS strings
 
